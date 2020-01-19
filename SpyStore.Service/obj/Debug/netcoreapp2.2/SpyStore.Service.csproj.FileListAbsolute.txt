@@ -1,0 +1,5 @@
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Service\obj\Debug\netcoreapp2.2\SpyStore.Service.csproj.CoreCompileInputs.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Service\obj\Debug\netcoreapp2.2\SpyStore.Service.RazorAssemblyInfo.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Service\obj\Debug\netcoreapp2.2\SpyStore.Service.RazorAssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Service\obj\Debug\netcoreapp2.2\SpyStore.Service.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Service\obj\Debug\netcoreapp2.2\SpyStore.Service.AssemblyInfo.cs

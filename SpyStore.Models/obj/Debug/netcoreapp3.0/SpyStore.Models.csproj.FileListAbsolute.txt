@@ -1,0 +1,8 @@
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\bin\Debug\netcoreapp3.0\SpyStore.Models.deps.json
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\bin\Debug\netcoreapp3.0\SpyStore.Models.dll
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\bin\Debug\netcoreapp3.0\SpyStore.Models.pdb
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\obj\Debug\netcoreapp3.0\SpyStore.Models.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\obj\Debug\netcoreapp3.0\SpyStore.Models.AssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\obj\Debug\netcoreapp3.0\SpyStore.Models.dll
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\obj\Debug\netcoreapp3.0\SpyStore.Models.pdb
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Models\obj\Debug\netcoreapp3.0\SpyStore.Models.csprojAssemblyReference.cache

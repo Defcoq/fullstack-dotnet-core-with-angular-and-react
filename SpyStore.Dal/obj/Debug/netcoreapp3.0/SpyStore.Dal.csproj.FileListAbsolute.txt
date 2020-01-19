@@ -1,0 +1,13 @@
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Dal.deps.json
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Dal.runtimeconfig.json
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Dal.runtimeconfig.dev.json
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Dal.dll
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Dal.pdb
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Models.dll
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\bin\Debug\netcoreapp3.0\SpyStore.Models.pdb
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.csprojAssemblyReference.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.AssemblyInfoInputs.cache
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.AssemblyInfo.cs
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.csproj.CopyComplete
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.dll
+C:\Worksapce\Dot.netCoreSample\Building Web Applications with .NET Core 2.1 and JavaScript\SpyStore.Dal\obj\Debug\netcoreapp3.0\SpyStore.Dal.pdb

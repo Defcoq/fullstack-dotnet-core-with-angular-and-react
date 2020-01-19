@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpyStore.Service</name>
+    </assembly>
+    <members>
+        <member name="M:SpyStore.Service.Controllers.CategoryController.Get">
+             <summary>
+             Get all categories.
+             </summary>
+             <remarks>
+             Sample request:
+            
+             </remarks>
+             <returns>List of all categories</returns>
+             <response code="200">Returns categories.</response>
+             <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+    </members>
+</doc>
